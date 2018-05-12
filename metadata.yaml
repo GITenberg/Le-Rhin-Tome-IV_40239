@@ -1,0 +1,33 @@
+_repo: Le-Rhin-Tome-IV_40239
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40239-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2012-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40239'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hugo, Victor, 1802-1885 -- Travel -- Rhine River Valley'
+- !lcsh 'France -- Description and travel'
+- !lcc 'DD'
+- !lcsh 'Rhine River Valley -- Description and travel'
+- !lcsh 'Hugo, Victor, 1802-1885 -- Travel -- France'
+- !lcc 'DC'
+title: Le Rhin, Tome IV
+url: http://www.gutenberg.org/ebooks/40239
